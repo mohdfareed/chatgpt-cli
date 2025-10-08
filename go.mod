@@ -4,8 +4,8 @@ go 1.24.0
 
 require ( // MARK: Dependencies
 	github.com/joho/godotenv v1.6.0-pre.2
+	github.com/urfave/cli/v3 v3.4.1
 	github.com/openai/openai-go v1.12.0
-	github.com/urfave/cli/v3 v3.3.3
 	golang.org/x/term v0.35.0 // check TTY for colors
 )
 
